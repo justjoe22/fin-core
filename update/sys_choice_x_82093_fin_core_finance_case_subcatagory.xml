@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="subcatagory" table="x_82093_fin_core_finance_case" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>subcatagory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Payment Deduction</label>
+            <language>en</language>
+            <name>x_82093_fin_core_finance_case</name>
+            <sequence>100</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-05 18:41:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c88a887adb106300603752b0cf961933</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-05 18:41:29</sys_updated_on>
+            <value>12</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>subcatagory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Payment Details</label>
+            <language>en</language>
+            <name>x_82093_fin_core_finance_case</name>
+            <sequence>200</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-05 18:41:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>60aac87adb106300603752b0cf96194e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-05 18:41:50</sys_updated_on>
+            <value>13</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>subcatagory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Short Payment</label>
+            <language>en</language>
+            <name>x_82093_fin_core_finance_case</name>
+            <sequence>300</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-05 18:42:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>65ba447adb106300603752b0cf961952</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-05 18:42:09</sys_updated_on>
+            <value>14</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>subcatagory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Overpayment</label>
+            <language>en</language>
+            <name>x_82093_fin_core_finance_case</name>
+            <sequence>400</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-05 18:43:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a1fa087adb106300603752b0cf9619b5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-05 18:43:23</sys_updated_on>
+            <value>15</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>subcatagory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>1099 Misc Form</label>
+            <language>en</language>
+            <name>x_82093_fin_core_finance_case</name>
+            <sequence>500</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-05 18:43:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>93ca843adb106300603752b0cf961901</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-05 18:43:51</sys_updated_on>
+            <value>16</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>subcatagory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Wrong Vendor Payment</label>
+            <language>en</language>
+            <name>x_82093_fin_core_finance_case</name>
+            <sequence>600</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-05 18:44:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>631b483adb106300603752b0cf9619d6</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-05 18:44:22</sys_updated_on>
+            <value>17</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>subcatagory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Not Included on Payment Run</label>
+            <language>en</language>
+            <name>x_82093_fin_core_finance_case</name>
+            <sequence>700</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-05 18:44:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7d3b00badb106300603752b0cf9619c1</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-05 18:44:47</sys_updated_on>
+            <value>18</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>subcatagory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Proof of Payment</label>
+            <language>en</language>
+            <name>x_82093_fin_core_finance_case</name>
+            <sequence>800</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-05 18:45:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>205b40badb106300603752b0cf9619d4</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-05 18:45:23</sys_updated_on>
+            <value>19</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>subcatagory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Outstanding Payment/Check</label>
+            <language>en</language>
+            <name>x_82093_fin_core_finance_case</name>
+            <sequence>900</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-05 18:46:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>247bc0badb106300603752b0cf961919</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-05 18:46:11</sys_updated_on>
+            <value>20</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>subcatagory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>PO Maintenance/Setup</label>
+            <language>en</language>
+            <name>x_82093_fin_core_finance_case</name>
+            <sequence>1000</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-05 18:47:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a1abc0badb106300603752b0cf96191a</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-05 18:47:42</sys_updated_on>
+            <value>21</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>subcatagory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>PO Copy</label>
+            <language>en</language>
+            <name>x_82093_fin_core_finance_case</name>
+            <sequence>1100</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-05 18:47:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9ffb00badb106300603752b0cf9619c3</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-05 18:48:21</sys_updated_on>
+            <value>22</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>subcatagory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Procurement Agreements</label>
+            <language>en</language>
+            <name>x_82093_fin_core_finance_case</name>
+            <sequence>1200</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-05 18:48:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>eb0c887adb106300603752b0cf961938</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-05 18:48:39</sys_updated_on>
+            <value>23</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>subcatagory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>POS/BOL</label>
+            <language>en</language>
+            <name>x_82093_fin_core_finance_case</name>
+            <sequence>1300</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-05 18:48:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>123cc0badb106300603752b0cf96191b</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-05 18:49:01</sys_updated_on>
+            <value>24</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>subcatagory</element>
+            <name>x_82093_fin_core_finance_case</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-05 18:41:29</sys_created_on>
+            <sys_id>b29a007adb106300603752b0cf961917</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>subcatagory</sys_name>
+            <sys_package display_value="Finance: Core" source="x_82093_fin_core">ec631bd6db142300603752b0cf9619bf</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Finance: Core">ec631bd6db142300603752b0cf9619bf</sys_scope>
+            <sys_update_name>sys_choice_x_82093_fin_core_finance_case_subcatagory</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-05 18:41:29</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

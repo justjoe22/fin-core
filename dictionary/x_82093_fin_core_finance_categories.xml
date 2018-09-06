@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Finance Categories" max_length="40" name="x_82093_fin_core_finance_categories" type="collection">
+        <element display="true" label="Category Name" max_length="50" name="category_name" type="string"/>
+        <element label="Parent" max_length="32" name="parent" reference="x_82093_fin_core_finance_categories" reference_qual="subcategory=false^EQ" reference_qual_condition="subcategory=false^EQ" type="reference"/>
+        <element calculation="(function calculatedFieldValue(current) {&#13;&#10;&#13;&#10;&#9;if(current.parent){&#13;&#10;&#9;&#9;return 'true';&#13;&#10;&#9;}&#13;&#10;&#9;else {&#13;&#10;&#9;&#9;return '';&#13;&#10;&#9;}&#13;&#10;&#9;&#13;&#10;})(current);" label="Subcategory" max_length="40" name="subcategory" type="boolean"/>
+        <element label="Value" max_length="25" name="value" type="string"/>
+        <index name="index">
+            <element name="parent"/>
+        </index>
+    </element>
+</database>
