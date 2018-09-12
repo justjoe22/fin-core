@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="requested_for" label="Requestor" language="en" table="x_82093_fin_core_finance_case">
+    <sys_documentation element="state" label="Status" language="en" table="x_82093_fin_core_finance_case">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element>requested_for</element>
+            <element>state</element>
             <help/>
             <hint/>
-            <label>Requestor</label>
+            <label>Status</label>
             <language>en</language>
             <name>x_82093_fin_core_finance_case</name>
-            <plural>Requestors</plural>
+            <plural>Status</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-09-05 17:48:57</sys_created_on>
-            <sys_id>d59e3362db106300603752b0cf9619ef</sys_id>
-            <sys_mod_count>1</sys_mod_count>
-            <sys_name>Requestor</sys_name>
+            <sys_created_on>2018-09-12 14:03:06</sys_created_on>
+            <sys_id>410e8334db286300603752b0cf961985</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Status</sys_name>
             <sys_package display_value="Finance: Core" source="x_82093_fin_core">ec631bd6db142300603752b0cf9619bf</sys_package>
             <sys_policy/>
             <sys_scope display_value="Finance: Core">ec631bd6db142300603752b0cf9619bf</sys_scope>
-            <sys_update_name>sys_documentation_x_82093_fin_core_finance_case_requested_for_en</sys_update_name>
+            <sys_update_name>sys_documentation_x_82093_fin_core_finance_case_state_en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-09-12 14:02:33</sys_updated_on>
+            <sys_updated_on>2018-09-12 14:03:06</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>
