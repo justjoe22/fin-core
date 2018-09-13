@@ -1,70 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_ui_section caption="" section_id="1b3bb3aedbdc2300603752b0cf96191b" sys_domain="global" table="x_82093_fin_core_finance_case" version="3" view="">
+    <sys_ui_section caption="Case Information" section_id="d6da40cddba86300603752b0cf9619fb" sys_domain="global" table="x_82093_fin_core_finance_case" version="3" view="">
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>number</element>
+            <element>system</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2018-09-12 18:28:53</sys_created_on>
-            <sys_id>aedac0cddba86300603752b0cf961918</sys_id>
+            <sys_id>eedac0cddba86300603752b0cf961923</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_82093_fin_core_finance_case" sys_domain="global" view="Default view">1b3bb3aedbdc2300603752b0cf96191b</sys_ui_section>
+            <sys_ui_section caption="Case Information" display_value="Case Information" name="x_82093_fin_core_finance_case" sys_domain="global" view="Default view">d6da40cddba86300603752b0cf9619fb</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2018-09-12 18:28:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>requested_for</element>
+            <element>supplier_name</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2018-09-12 18:28:53</sys_created_on>
-            <sys_id>22dac0cddba86300603752b0cf961919</sys_id>
+            <sys_id>62dac0cddba86300603752b0cf961924</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_82093_fin_core_finance_case" sys_domain="global" view="Default view">1b3bb3aedbdc2300603752b0cf96191b</sys_ui_section>
+            <sys_ui_section caption="Case Information" display_value="Case Information" name="x_82093_fin_core_finance_case" sys_domain="global" view="Default view">d6da40cddba86300603752b0cf9619fb</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2018-09-12 18:28:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>category</element>
+            <element>supplier</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2018-09-12 18:28:53</sys_created_on>
-            <sys_id>a2dac0cddba86300603752b0cf961919</sys_id>
+            <sys_id>e2dac0cddba86300603752b0cf961924</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_82093_fin_core_finance_case" sys_domain="global" view="Default view">1b3bb3aedbdc2300603752b0cf96191b</sys_ui_section>
+            <sys_ui_section caption="Case Information" display_value="Case Information" name="x_82093_fin_core_finance_case" sys_domain="global" view="Default view">d6da40cddba86300603752b0cf9619fb</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2018-09-12 18:28:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>subcategory</element>
+            <element>invoice</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2018-09-12 18:28:53</sys_created_on>
-            <sys_id>26dac0cddba86300603752b0cf961919</sys_id>
+            <sys_id>66dac0cddba86300603752b0cf961924</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_82093_fin_core_finance_case" sys_domain="global" view="Default view">1b3bb3aedbdc2300603752b0cf96191b</sys_ui_section>
+            <sys_ui_section caption="Case Information" display_value="Case Information" name="x_82093_fin_core_finance_case" sys_domain="global" view="Default view">d6da40cddba86300603752b0cf9619fb</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2018-09-12 18:28:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>priority</element>
+            <element>po</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2018-09-12 18:28:53</sys_created_on>
-            <sys_id>a6dac0cddba86300603752b0cf961919</sys_id>
+            <sys_id>e6dac0cddba86300603752b0cf961924</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_82093_fin_core_finance_case" sys_domain="global" view="Default view">1b3bb3aedbdc2300603752b0cf96191b</sys_ui_section>
+            <sys_ui_section caption="Case Information" display_value="Case Information" name="x_82093_fin_core_finance_case" sys_domain="global" view="Default view">d6da40cddba86300603752b0cf9619fb</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2018-09-12 18:28:53</sys_updated_on>
             <sys_user/>
@@ -75,149 +75,107 @@
             <position>5</position>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2018-09-12 18:28:53</sys_created_on>
-            <sys_id>2adac0cddba86300603752b0cf961919</sys_id>
+            <sys_id>6adac0cddba86300603752b0cf961924</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_82093_fin_core_finance_case" sys_domain="global" view="Default view">1b3bb3aedbdc2300603752b0cf96191b</sys_ui_section>
+            <sys_ui_section caption="Case Information" display_value="Case Information" name="x_82093_fin_core_finance_case" sys_domain="global" view="Default view">d6da40cddba86300603752b0cf9619fb</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2018-09-12 18:28:53</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>contact_type</element>
+            <element>requisition</element>
             <position>6</position>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2018-09-12 18:28:53</sys_created_on>
-            <sys_id>aadac0cddba86300603752b0cf961919</sys_id>
+            <sys_id>eadac0cddba86300603752b0cf961924</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_82093_fin_core_finance_case" sys_domain="global" view="Default view">1b3bb3aedbdc2300603752b0cf96191b</sys_ui_section>
+            <sys_ui_section caption="Case Information" display_value="Case Information" name="x_82093_fin_core_finance_case" sys_domain="global" view="Default view">d6da40cddba86300603752b0cf9619fb</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2018-09-12 18:28:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>state</element>
+            <element>sku</element>
             <position>7</position>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2018-09-12 18:28:53</sys_created_on>
-            <sys_id>2edac0cddba86300603752b0cf961919</sys_id>
+            <sys_id>6edac0cddba86300603752b0cf961924</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_82093_fin_core_finance_case" sys_domain="global" view="Default view">1b3bb3aedbdc2300603752b0cf96191b</sys_ui_section>
+            <sys_ui_section caption="Case Information" display_value="Case Information" name="x_82093_fin_core_finance_case" sys_domain="global" view="Default view">d6da40cddba86300603752b0cf9619fb</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2018-09-12 18:28:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>assignment_group</element>
+            <element>region_desk</element>
             <position>8</position>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2018-09-12 18:28:53</sys_created_on>
-            <sys_id>aedac0cddba86300603752b0cf961919</sys_id>
+            <sys_id>eedac0cddba86300603752b0cf961924</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_82093_fin_core_finance_case" sys_domain="global" view="Default view">1b3bb3aedbdc2300603752b0cf96191b</sys_ui_section>
+            <sys_ui_section caption="Case Information" display_value="Case Information" name="x_82093_fin_core_finance_case" sys_domain="global" view="Default view">d6da40cddba86300603752b0cf9619fb</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2018-09-12 18:28:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>assigned_to</element>
+            <element>payment</element>
             <position>9</position>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2018-09-12 18:28:53</sys_created_on>
-            <sys_id>22dac0cddba86300603752b0cf96191a</sys_id>
+            <sys_id>62dac0cddba86300603752b0cf961925</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_82093_fin_core_finance_case" sys_domain="global" view="Default view">1b3bb3aedbdc2300603752b0cf96191b</sys_ui_section>
+            <sys_ui_section caption="Case Information" display_value="Case Information" name="x_82093_fin_core_finance_case" sys_domain="global" view="Default view">d6da40cddba86300603752b0cf9619fb</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2018-09-12 18:28:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>.end_split</element>
+            <element>voucher</element>
             <position>10</position>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2018-09-12 18:28:53</sys_created_on>
-            <sys_id>a2dac0cddba86300603752b0cf96191a</sys_id>
+            <sys_id>e2dac0cddba86300603752b0cf961925</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_82093_fin_core_finance_case" sys_domain="global" view="Default view">1b3bb3aedbdc2300603752b0cf96191b</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-09-12 18:28:53</sys_updated_on>
-            <sys_user/>
-            <type>.end_split</type>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>short_description</element>
-            <position>11</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-09-12 18:28:53</sys_created_on>
-            <sys_id>26dac0cddba86300603752b0cf96191a</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_82093_fin_core_finance_case" sys_domain="global" view="Default view">1b3bb3aedbdc2300603752b0cf96191b</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-09-12 18:28:53</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>cxs_table_search.xml</element>
-            <position>12</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-09-12 18:28:53</sys_created_on>
-            <sys_id>a6dac0cddba86300603752b0cf96191a</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter display_value="Contextual Search Results">11eb1622eb1121003623666cd206fe56</sys_ui_formatter>
-            <sys_ui_section caption="NULL" display_value="" name="x_82093_fin_core_finance_case" sys_domain="global" view="Default view">1b3bb3aedbdc2300603752b0cf96191b</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-09-12 18:28:53</sys_updated_on>
-            <sys_user/>
-            <type>formatter</type>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>description</element>
-            <position>13</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-09-12 18:28:53</sys_created_on>
-            <sys_id>6adac0cddba86300603752b0cf96191a</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_82093_fin_core_finance_case" sys_domain="global" view="Default view">1b3bb3aedbdc2300603752b0cf96191b</sys_ui_section>
+            <sys_ui_section caption="Case Information" display_value="Case Information" name="x_82093_fin_core_finance_case" sys_domain="global" view="Default view">d6da40cddba86300603752b0cf9619fb</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2018-09-12 18:28:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_section action="INSERT_OR_UPDATE">
-            <caption/>
+            <caption>Case Information</caption>
             <header>false</header>
             <name>x_82093_fin_core_finance_case</name>
             <roles/>
             <sys_class_name>sys_ui_section</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-09-05 17:34:20</sys_created_on>
+            <sys_created_on>2018-09-12 18:28:52</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>1b3bb3aedbdc2300603752b0cf96191b</sys_id>
+            <sys_id>d6da40cddba86300603752b0cf9619fb</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_name>x_82093_fin_core_finance_case</sys_name>
+            <sys_name>Case Information</sys_name>
             <sys_overrides/>
             <sys_package display_value="Finance: Core" source="x_82093_fin_core">ec631bd6db142300603752b0cf9619bf</sys_package>
             <sys_policy/>
             <sys_scope display_value="Finance: Core">ec631bd6db142300603752b0cf9619bf</sys_scope>
-            <sys_update_name>sys_ui_section_1b3bb3aedbdc2300603752b0cf96191b</sys_update_name>
+            <sys_update_name>sys_ui_section_d6da40cddba86300603752b0cf9619fb</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-09-05 17:34:20</sys_updated_on>
+            <sys_updated_on>2018-09-12 18:28:52</sys_updated_on>
             <sys_user/>
-            <title>true</title>
+            <title>false</title>
             <view display_value="Default view" name="NULL">Default view</view>
             <view_name/>
         </sys_ui_section>

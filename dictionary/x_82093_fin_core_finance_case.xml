@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element audit="true" extends="task" label="Finance Case" max_length="40" name="x_82093_fin_core_finance_case" sizeclass="1" type="collection">
         <element dependent="subcategory" dependent_on_field="subcategory" label="Category" max_length="32" name="category" reference="x_82093_fin_core_finance_categories" reference_qual="subcategory=false^EQ" reference_qual_condition="subcategory=false^EQ" type="reference" use_dependent_field="true"/>
+        <element label="Invoice #" max_length="250" name="invoice" type="string"/>
+        <element label="Payment #" max_length="250" name="payment" type="string"/>
+        <element label="PO #" max_length="250" name="po" type="string"/>
+        <element label="Region/Desk" max_length="250" name="region_desk" type="string"/>
         <element label="Requestor" mandatory="true" max_length="32" name="requested_for" reference="sys_user" reference_qual="active=true^EQ" reference_qual_condition="active=true^EQ" type="reference"/>
+        <element label="Requisition #" max_length="250" name="requisition" type="string"/>
+        <element label="SKU #" max_length="250" name="sku" type="string"/>
         <element dependent="category" dependent_on_field="category" label="Subcategory" max_length="32" name="subcategory" reference="x_82093_fin_core_finance_categories" reference_qual="subcategory=true^EQ" reference_qual_condition="subcategory=true^EQ" type="reference" use_dependent_field="true"/>
+        <element label="Supplier #" max_length="250" name="supplier" type="string"/>
+        <element label="Supplier Name" max_length="250" name="supplier_name" type="string"/>
+        <element label="System" max_length="250" name="system" type="string"/>
+        <element label="Voucher #" max_length="250" name="voucher" type="string"/>
     </element>
 </database>
