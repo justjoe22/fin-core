@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element audit="true" extends="task" label="Finance Case" max_length="40" name="x_82093_fin_core_finance_case" sizeclass="1" type="collection">
+    <element audit="true" extends="task" label="Finance Case" max_length="40" name="x_82093_fin_core_finance_case" type="collection">
         <element dependent="subcategory" dependent_on_field="subcategory" label="Category" max_length="32" name="category" reference="x_82093_fin_core_finance_categories" reference_qual="subcategory=false^EQ" reference_qual_condition="subcategory=false^EQ" type="reference" use_dependent_field="true"/>
         <element label="Invoice #" max_length="250" name="invoice" type="string"/>
         <element label="Payment #" max_length="250" name="payment" type="string"/>

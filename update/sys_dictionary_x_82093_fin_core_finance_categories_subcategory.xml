@@ -57,15 +57,15 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-09-05 19:06:36</sys_created_on>
-        <sys_id>c9205c7edb106300603752b0cf961910</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_id>55e7c5c8db4d2300603752b0cf9619fd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>Subcategory</sys_name>
         <sys_package display_value="Finance: Core" source="x_82093_fin_core">ec631bd6db142300603752b0cf9619bf</sys_package>
         <sys_policy/>
         <sys_scope display_value="Finance: Core">ec631bd6db142300603752b0cf9619bf</sys_scope>
         <sys_update_name>sys_dictionary_x_82093_fin_core_finance_categories_subcategory</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-09-05 19:48:05</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2018-10-04 16:53:09</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
